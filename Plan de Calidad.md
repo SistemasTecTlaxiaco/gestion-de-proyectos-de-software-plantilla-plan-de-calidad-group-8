@@ -1060,20 +1060,7 @@ El equipo responderá:
 
 ---
 
-# 26. Registro de resultados reales
-
-| Historia | Prevención real | Corrección real | Defectos encontrados | Defectos corregidos | Resultado |
-|---|---|---|---|---|---|
-| HU01 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| HU02 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| HU03 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-| HU04 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-
-**Importante:** las estimaciones de horas y costos no deben presentarse como resultados reales. Esta tabla deberá completarse después de ejecutar las actividades del Sprint.
-
----
-
-# 27. Conclusión
+# 26. Conclusión
 
 El presente Plan de Calidad adapta las actividades de calidad a las necesidades concretas del proyecto de software para vendedores y artesanas de tenates de palma de la Heroica Ciudad de Tlaxiaco.
 
@@ -1091,7 +1078,7 @@ Finalmente, el tablero eduScrum permite convertir las actividades de calidad en 
 
 ---
 
-# 28. Estado de aprobación
+# 27. Estado de aprobación
 
 | Elemento | Estado |
 |---|---|
@@ -1114,7 +1101,7 @@ Finalmente, el tablero eduScrum permite convertir las actividades de calidad en 
 
 ---
 
-# 29. Aprobación del equipo
+# 28. Aprobación del equipo
 
 Antes de presentar el documento como evidencia final, el equipo deberá revisar y aprobar los criterios, métricas, estimaciones, pruebas y actividades del tablero.
 
@@ -1127,7 +1114,7 @@ Antes de presentar el documento como evidencia final, el equipo deberá revisar 
 
 ---
 
-# 30. Nota final
+# 29. Nota final
 
 Las estimaciones económicas, horas de prevención/corrección y resultados marcados como “Pendiente” no deben presentarse como datos reales hasta que el equipo los haya medido o validado.
 
@@ -1135,7 +1122,7 @@ El Plan de Calidad deberá actualizarse durante el Sprint conforme se ejecuten l
 
 ---
 
-# 31. Fuentes bibliográficas
+# 30. Fuentes bibliográficas
 
 CMMI Institute. (2026). *What is CMMI?* ISACA/CMMI Institute.  
 https://cmmiinstitute.com/cmmi/intro-3
